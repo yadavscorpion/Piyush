@@ -1,0 +1,2 @@
+# Data-Leakage-Detection-and-Prevention
+ Data Leakage Detectiona nd Prevention IS used in the database. It is used to create password so that no proper trator will be able to access data to the users already enrolled in the database  , I am using hashing ON password to priventdata leakage.
